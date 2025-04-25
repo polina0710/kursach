@@ -1,0 +1,23 @@
+stages:
+  - test
+  - report
+
+test:
+  stage: test
+  image: python:3.8
+  before_script:
+    - pip install -r requirements.txt
+  script:
+    - pytest --alluredir=allure-results
+  artifacts:
+    paths:
+      - allure-results/
+
+report:
+  stage: report
+  image: node:latest
+  script:
+    - npm install -g allure-commandline
+    - allure generate allure-results --clean -o allure-report
+    - allure open allure-report
+  when: always
