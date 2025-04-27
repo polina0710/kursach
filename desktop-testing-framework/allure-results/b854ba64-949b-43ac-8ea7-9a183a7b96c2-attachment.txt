@@ -1,0 +1,97 @@
+[32mINFO    [0m UIHandler:ui_handler.py:23 Application opened: System/Applications/Steam.app
+[32mINFO    [0m UIHandler:test_ui.py:65 OCR прочитал текст на всём экране: '@ Steam Account View Friends Games Window Help Oi: €& XN 89% =
+
+€ STORE LIBRARY COMMUNITY POLINAPOLY894
+
+€% § https://store.steampowered.com/
+
+Your Store New & Noteworthy Categories Points Shop News Labs search ey
+
+STEAM GIFT CARDS FEATURED & RECOMMENDED
+
+Give the Gift of Game
+
+ii
+} 7 ey A Watt ; el *
+i
+
+te
+Ay. BY. thy ms
+
+ML Wak Ver 1
+VU UN [coe |
+‘a \ L
+
+|
+£
+
+RECENTLY VIEWE
+
+Escape Simulator
+
+D (2159' The Butler County Times
+
+The Roottrees are Dead
+YOUR TAGS a f
+Escape Room
+
+Point & Click <
+Puzzle
+
+Gore
+Relaxing
+
+Recommended because you played
+games tagged with
+
+Point & Click Puzzle Atmospheric Story Rich
+
+7 A Pes ‘. po =
+. $10.49 USD on @ 9
+
+RECOMMENDED
+
+By Friends
+By Curators
+Tags
+
+BROWSE CATEGORIES
+
+Top Sellers
+
+New Releases
+Upcoming
+
+Specials
+
+VR Titles
+Controller-Friendly
+
+Great on Deck
+
++ | Add a Game Manage Downloads
+
+Finder
+WH & main*+ OW WOAD Git Graph CtTpoka 68, ctron6eu. 41 [ipo6enos:4 UTF-8 LF {} Python & 3.11.4 ('base')
+
+Q B-
+
+a
+
+@ Go Live
+
+? | polinapoly894 v
+
+@® Bc, 27 anp. 21:32
+
+i
+
+Friends & Chat aa ;
+
+Ss = Prettier
+
+f
+
+an
+Bae'
+[32mINFO    [0m UIHandler:ui_handler.py:29 Application closed

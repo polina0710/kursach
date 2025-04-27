@@ -1,0 +1,3 @@
+[32mINFO    [0m UIHandler:ui_handler.py:23 Application opened: System/Applications/Steam.app
+[32mINFO    [0m UIHandler:ui_handler.py:78 Dragged from (300, 400) to (600, 400)
+[32mINFO    [0m UIHandler:ui_handler.py:29 Application closed

@@ -1,0 +1,1 @@
+[32mINFO    [0m UIHandler:ui_handler.py:29 Application closed
